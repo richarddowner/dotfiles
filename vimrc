@@ -7,4 +7,5 @@ syntax on
 set number
 set completeopt-=preview
 
+" Auto format go files on save
 autocmd FileType go autocmd BufWritePre <buffer> Fmt
