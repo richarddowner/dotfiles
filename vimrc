@@ -2,6 +2,7 @@
 set t_Co=256
 
 " Set color theme
+" :colorscheme ir_black
 :colo asu1dark
 
 filetype plugin indent on
