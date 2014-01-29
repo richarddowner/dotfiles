@@ -1,9 +1,13 @@
+" Enable 256 colors
 set t_Co=256
+
+" Set color theme
 :colo asu1dark
 
 filetype plugin indent on
 syntax on
 
+" Enable line numbers
 set number
 
 " Disable scratch preview window
