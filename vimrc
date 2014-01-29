@@ -2,7 +2,7 @@
 set t_Co=256
 
 " Set color theme
-:colorscheme ir_black
+:colorscheme nzl.io
 
 " Enable color scheme OSX
 filetype plugin indent on
