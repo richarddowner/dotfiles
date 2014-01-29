@@ -4,6 +4,7 @@ set t_Co=256
 " Set color theme
 :colorscheme ir_black
 
+" Enable color scheme OSX
 filetype plugin indent on
 syntax on
 
