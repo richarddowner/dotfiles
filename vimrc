@@ -2,8 +2,7 @@
 set t_Co=256
 
 " Set color theme
-" :colorscheme ir_black
-:colo asu1dark
+:colorscheme ir_black
 
 filetype plugin indent on
 syntax on
