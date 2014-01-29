@@ -5,6 +5,8 @@ filetype plugin indent on
 syntax on
 
 set number
+
+" Disable scratch preview window
 set completeopt-=preview
 
 " Auto format go files on save
