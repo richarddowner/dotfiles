@@ -15,10 +15,10 @@ let g:colors_name="nzl.io"
 hi Normal       term=NONE cterm=NONE ctermfg=LightGray   ctermbg=Black
 hi NonText      term=NONE cterm=NONE ctermfg=Brown       ctermbg=Black
 hi Function     term=BOLD cterm=BOLD ctermfg=DarkCyan    ctermbg=Black
-hi Statement    term=BOLD cterm=BOLD ctermfg=DarkBlue    ctermbg=Black
+hi Statement    term=NONE cterm=NONE ctermfg=Blue        ctermbg=Black
 hi Special      term=NONE cterm=NONE ctermfg=White       ctermbg=Black
 hi SpecialChar  term=NONE cterm=NONE ctermfg=Gray        ctermbg=Black
-hi Constant     term=NONE cterm=NONE ctermfg=DarkYellow  ctermbg=Black
+hi Constant     term=NONE cterm=NONE ctermfg=Brown       ctermbg=Black
 hi Comment      term=NONE cterm=NONE ctermfg=DarkGray    ctermbg=Black
 hi Preproc      term=NONE cterm=NONE ctermfg=DarkGreen   ctermbg=Black
 hi Type         term=NONE cterm=NONE ctermfg=DarkMagenta ctermbg=Black
@@ -32,7 +32,7 @@ hi Directory    term=NONE cterm=NONE ctermfg=White       ctermbg=Black
 hi WarningMsg   term=NONE cterm=NONE ctermfg=Blue        ctermbg=Yellow
 hi Error        term=NONE cterm=NONE ctermfg=DarkRed     ctermbg=Gray
 hi Cursor                            ctermfg=Black       ctermbg=Cyan
-hi LineNr       term=NONE cterm=NONE ctermfg=Red         ctermbg=Black
+hi LineNr       term=NONE cterm=NONE ctermfg=LightGray   ctermbg=Black
 
 " new Vim 7.0 items
 " hi Pmenu        guibg=#220044 guifg=White
