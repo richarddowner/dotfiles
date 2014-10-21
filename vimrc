@@ -4,7 +4,7 @@ execute pathogen#infect()
 " Enable color scheme OSX
 syntax on
 filetype plugin indent on
-"
+
 "Enable 256 colors
 set t_Co=256
 
