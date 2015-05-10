@@ -256,7 +256,16 @@ Show   #Chance Items
     Rarity = Normal
     BaseType "Sacrificial Garb"
     SetTextColor 180 180 180           #Normal "Junk"
-
+	
+Show   #Chance Items
+    Rarity = Normal
+    BaseType "Occultist's Vestment"
+    SetTextColor 180 180 180           #Normal "Junk"
+	
+Show   #Chance Items
+    Rarity = Normal
+    BaseType "Imperial Bow"
+    SetTextColor 180 180 180           #Normal "Junk"
 
 ### 000f
 ### Highlight 5 and 6 socket items, RGB, and items with white sockets 
